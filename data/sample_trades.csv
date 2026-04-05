@@ -1,0 +1,5 @@
+type,direction,tenor_label,notional_usd,trade_fwd_pts_paise,trade_forward,notional_ccy,basis_wedge,label
+fx_swap,buy_sell,3M,10000000,47.0,,,0,Receive 3M
+fx_swap,sell_buy,12M,5000000,205.0,,,0,Pay 12M
+ndf,buy_usd,3M,10000000,,84.00,USD,0,NDF Buy USD 3M
+steepener,steepener,1M/6M,10000000,15.0,,,0,1M/6M Steepener
